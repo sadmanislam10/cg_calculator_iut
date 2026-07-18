@@ -1,4 +1,3 @@
-001-Preparecoursemodule[Dependency:None]
 002-Preparecourseresultsmodule[Dependency:001]
 003-AddCGPAcalculator[Dependency:002]
 004-EnableIncompleteCourses[Dependency:003]
