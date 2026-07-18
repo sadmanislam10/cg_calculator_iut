@@ -1,4 +1,3 @@
-004-EnableIncompleteCourses[Dependency:003]
 005-ShowIndividualSemesterGPA[Dependency:003]
 006-MakeCourseListDynamic[Dependency:004,005]
 007-AddRequiredGPAcalculator[Dependency:006]
