@@ -1,2 +1,1 @@
-009-Handlemultiplestudents' data[Dependency:007,008]
 010-Addstudents' ranking[Dependency:009]
